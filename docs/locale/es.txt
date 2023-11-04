@@ -1,0 +1,301 @@
+#: locale=es
+
+## Action
+
+### URL
+LinkBehaviour_E2AA4506_B51E_1573_41D2_32E14100C9E6.source = tel: +34 666 777 888
+LinkBehaviour_DB3139CF_4EB8_B685_41CF_BF60F6F8EC94.source = https://g.page/?share
+WebFrame_8F30501C_B536_0B96_41E2_CDEB21EA133F.url = https://loremipsum.io/
+WebFrame_8F30501C_B536_0B96_41E2_CDEB21EA133F_mobile.url = https://loremipsum.io/
+LinkBehaviour_7F9AA542_4A58_DFFC_41CF_45782F804788.source = https://www.facebook.com/baanapirome
+LinkBehaviour_E2AB6509_B51E_1571_41DC_53E8C4B9C8A0.source = https://www.facebook.com/loremipsum
+LinkBehaviour_CBD87BFE_E06A_2E07_41B1_A2BBDD7C0009.source = https://www.facebook.com/baanapirome
+LinkBehaviour_3825EDFD_4E5B_6E84_41C1_9D7B0B61BFE7.source = https://www.facebook.com/baanapirome
+LinkBehaviour_CC7994F7_E06A_5A06_41C5_7EA6C0B2C3CB.source = https://www.facebook.com/baanapirome
+LinkBehaviour_DB2F39D0_4EB8_B69B_41D0_D23D31BDEA1C.source = https://www.facebook.com/loremipsum
+WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
+LinkBehaviour_E2A87508_B51E_157F_41E1_D62AAC20528B.source = https://g.page/?share
+WebFrame_9899640D_B576_0B76_41DA_5801D33ABA5C_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1839486565013!2d-73.98773128433983!3d40.75797874273779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1ses!2ses!4v1603554735955!5m2!1ses!2ses
+WebFrame_9899640D_B576_0B76_41DA_5801D33ABA5C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1839486565013!2d-73.98773128433983!3d40.75797874273779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1ses!2ses!4v1603554735955!5m2!1ses!2ses
+LinkBehaviour_DB32C9D3_4EB8_B69C_41C1_3C7A8AFC9DAC.source = https://www.instagram.com/loremipsum
+LinkBehaviour_E2AA9513_B51E_1591_41DE_90D5B1501703.source = https://www.instagram.com/loremipsum
+LinkBehaviour_E2AC250C_B51E_1577_41AE_3FC84986B984.source = https://www.linkedin.com/loremipsum
+LinkBehaviour_DB3149D2_4EB8_B69F_41C5_4A9F32CD3D3A.source = https://www.linkedin.com/loremipsum
+LinkBehaviour_DB35B9D9_4EB8_B68C_41C5_C16933EDF451.source = https://www.pinterest.com/loremipsum
+LinkBehaviour_E2A91514_B51E_1597_41D3_F24A62E1EBA0.source = https://www.pinterest.com/loremipsum
+LinkBehaviour_E2A9C50A_B51E_1573_41C2_48D1EB822CC9.source = https://www.twittercom/loremipsum
+LinkBehaviour_DB30B9D3_4EB8_B69D_41CF_8C51F9D926C3.source = https://www.twittercom/loremipsum
+WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/RYk1OA1ZLjQ
+LinkBehaviour_DB2E49CE_4EB8_B687_41C3_B0F7ED949F13.source = mailto: lorem@ipsum.com
+LinkBehaviour_E2AB2507_B51E_1571_4182_2956A7B7A9A3.source = mailto: lorem@ipsum.com
+LinkBehaviour_DB2E09CD_4EB8_B685_41AC_1B8CEBF1833B.source = tel: +34 666 777 888
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_A27B1324_E185_D5A6_41C2_0728DB34A21B.text = H O M E  E S T A T E
+HotspotPanoramaOverlayTextImage_A4541984_E18A_5566_41E7_134A1BDEF3A4.text = H O M E  E S T A T E
+HotspotPanoramaOverlayTextImage_DEA54E51_E1BA_AFE1_41E0_27950C68B78B.text = H O M E  E S T A T E
+HotspotPanoramaOverlayTextImage_A9D86165_E187_D5A6_41E3_C01F94995588.text = H O M E  E S T A T E
+HotspotPanoramaOverlayTextImage_A6BD151C_E185_FD67_41C1_3DC4521522A9.text = โครงการบ้านอภิรมย์
+
+### Tooltip
+sprite_F2E8C40E_E03E_5A07_41E0_602BD2567E1C.toolTip = Start View
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_C5E0BBB9_E67B_0862_41DE_A06B257A3F2D.url = media/map_EF025336_DD60_3886_41D8_E80F03B835A0_en_0.png
+imlevel_C5E0ABB9_E67B_0862_41B1_FF12F64B864D.url = media/map_EF025336_DD60_3886_41D8_E80F03B835A0_en_1.png
+imlevel_C5E35BB9_E67B_0862_41DB_43B0567B90A7.url = media/map_EF025336_DD60_3886_41D8_E80F03B835A0_en_2.png
+imlevel_C5E36BBA_E67B_0866_41E5_1CBB8C3D9009.url = media/map_EF025336_DD60_3886_41D8_E80F03B835A0_en_3.png
+imlevel_C5E30BBA_E67B_0866_41D4_52C7B794A161.url = media/map_EF025336_DD60_3886_41D8_E80F03B835A0_en_4.png
+imlevel_A504BCA0_E185_D35E_41E3_9EF008F4FB60.url = media/panorama_F2A8D3BF_E18A_54A1_41E1_EF85FC040B22_HS_blpjvnol_en.png
+imlevel_A5065973_E185_D5A2_41BB_97F961B18E04.url = media/panorama_F2A8D3BF_E18A_54A1_41E1_EF85FC040B22_HS_k3c9dhug_en.png
+imlevel_A7890872_E185_D3A3_41E1_0F2B1AF15097.url = media/panorama_F2A8D3BF_E18A_54A1_41E1_EF85FC040B22_HS_qr454fo7_en.png
+imlevel_A781BF50_E185_EDFF_41E8_9FBBDAAB7268.url = media/panorama_F2A8D3BF_E18A_54A1_41E1_EF85FC040B22_HS_srn4elk8_en.png
+imlevel_A500207C_E185_F3A0_41D9_9990DEB9E85E.url = media/panorama_F2A8D3BF_E18A_54A1_41E1_EF85FC040B22_HS_z82iadnj_en.png
+imlevel_C5BD960F_E67B_383F_41D7_6A59FA25BAAF.url = media/zoomImage_06DCEA49_1FD4_27F3_41BC_FF11653823B3_en_0_0.jpg
+imlevel_C5BD660F_E67B_383F_41D8_DBC7A353278A.url = media/zoomImage_06DCEA49_1FD4_27F3_41BC_FF11653823B3_en_0_1.jpg
+imlevel_C5BD460F_E67B_383F_41EB_A19D684EBD23.url = media/zoomImage_06DCEA49_1FD4_27F3_41BC_FF11653823B3_en_0_2.jpg
+imlevel_C58335DF_E67B_3BDE_41D2_48D4651716DD.url = media/zoomImage_070073D5_1FD4_2493_41AD_99EB51294AF8_en_0_0.jpg
+imlevel_C58315DF_E67B_3BDE_41D6_B826AB9AB3AB.url = media/zoomImage_070073D5_1FD4_2493_41AD_99EB51294AF8_en_0_1.jpg
+imlevel_C583E5DF_E67B_3BDE_41D4_AA3A3C04B561.url = media/zoomImage_070073D5_1FD4_2493_41AD_99EB51294AF8_en_0_2.jpg
+imlevel_C5BD95EF_E67B_3BFE_41C3_28D7BB802DE3.url = media/zoomImage_A63682A8_E0EA_DE0B_41E0_08D080CED7DF_en_0_0.jpg
+imlevel_C5BC75EF_E67B_3BFE_41CE_7DD628D6E555.url = media/zoomImage_A63682A8_E0EA_DE0B_41E0_08D080CED7DF_en_0_1.jpg
+imlevel_C5BC55EF_E67B_3BFE_41CB_2B059005A6A2.url = media/zoomImage_A63682A8_E0EA_DE0B_41E0_08D080CED7DF_en_0_2.jpg
+
+### Popup Image
+
+### Title
+panorama_C1A8343A_DD20_600E_41B9_9487876A4FEC.label = 1
+panorama_C4842B24_DD20_203A_41C4_30590A81D480.label = 10
+panorama_C48750A1_DD20_603A_41E4_D4B1F9761B66.label = 11
+panorama_FA05C3CB_E026_3E0E_41D7_3846467BD9CF.label = 12
+panorama_F8E19F61_E026_263D_41DF_7165C61801D0.label = 13
+panorama_FAE4BAAF_E026_2E06_41E9_90C8A82FC0E6.label = 14
+panorama_F8E4BAE8_E026_6E0A_41E6_E0F733D4743C.label = 14
+panorama_F8E6467D_E026_6605_41E9_4405B7505632.label = 15
+panorama_F8E632CC_E026_5E0A_41E6_17C3E1CB16BF.label = 16
+panorama_F8E6BEE8_E026_260B_41E5_F068AE9A1369.label = 17
+panorama_F8E65A0A_E026_2E0F_41B2_ABFE29A0EE1F.label = 18
+panorama_F8E98581_E029_DAFA_41DA_A53616D3BEC9.label = 19
+panorama_C4876053_DD20_201E_41C0_AE6E5BCD7734.label = 2
+panorama_F8EA0132_E029_FA1E_41B8_C3BE88815A06.label = 20
+panorama_F8F00AC9_E029_EE0D_41A3_1CCAE8A5B970.label = 21
+panorama_F90362F5_E029_DE05_41E3_EC680AA3AE8C.label = 22
+panorama_F8DBBE97_E02A_2605_41C9_CCB0BB5231CA.label = 23
+panorama_F93E0A49_E02A_2E0D_41EA_7720A795CD55.label = 24
+panorama_C484990C_DD20_200A_41DE_8177E498F0C2.label = 3
+panorama_C486629D_DD20_200A_41DE_3CE7A149C69B.label = 4
+panorama_C484CBFE_DD20_2006_41E0_2B3C0F8021F9.label = 5
+panorama_C485D4EC_DD21_E009_41E0_372BA146BFB1.label = 6
+panorama_C484FE4A_DD21_E00E_41D0_9D9918B131CE.label = 7
+video_A9CA686D_E28A_D3A1_41D7_14A9C36A6F28.label = 716815839.805144
+panorama_C483675B_DD21_E00E_41C2_DA97055A7671.label = 8
+panorama_C4823075_DD20_201A_41E7_7492ACBE9424.label = 9
+album_A3249889_E0EA_2A0A_41E9_565A850209B1.label = BAAN APIROME
+panorama_F2A8D3BF_E18A_54A1_41E1_EF85FC040B22.label = DJI_0054
+panorama_F2A90706_E18B_BD62_41B5_AA611756C44C.label = DJI_0056
+panorama_F2A9010C_E18B_D566_41E4_EBF63A7E86B8.label = DJI_0057
+photo_AAD2E87F_E0E6_6A05_41C5_95ACFD528F99.label = DJI_0061
+photo_AAD2E87F_E0E6_6A05_41C5_95ACFD528F99.label = DJI_0061
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_0.label = DJI_0063
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_1.label = DJI_0072
+photo_A5344C5F_E0E6_6A06_41E6_3E2233C0C328.label = DJI_0075
+photo_A5344C5F_E0E6_6A06_41E6_3E2233C0C328.label = DJI_0075
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_2.label = DJI_0078
+photo_A5350059_E0E6_7A0D_41D0_DCFBE69D0743.label = DJI_0084
+photo_A5350059_E0E6_7A0D_41D0_DCFBE69D0743.label = DJI_0084
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_3.label = DJI_0087
+photo_A53504C2_E0E6_7A7E_41E2_4C386B2F067E.label = DJI_0093
+photo_A53504C2_E0E6_7A7E_41E2_4C386B2F067E.label = DJI_0093
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_4.label = DJI_0105
+photo_A534F8D7_E0E6_6A05_41D2_745ED39A539E.label = DJI_0131
+photo_A534F8D7_E0E6_6A05_41D2_745ED39A539E.label = DJI_0131
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_5.label = DJI_0165
+photo_A534CD2F_E0E6_6A06_41EA_709DB67AC397.label = DJI_0168
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_6.label = DJI_0168
+photo_A534CD2F_E0E6_6A06_41EA_709DB67AC397.label = DJI_0168
+photo_A5346124_E0E6_5A3B_41D5_7724EDD33EAF.label = DJI_0179
+photo_A5346124_E0E6_5A3B_41D5_7724EDD33EAF.label = DJI_0179
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_7.label = DJI_0234
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_8.label = DJI_0240
+photo_A534D52F_E0E6_5A06_41E8_142C5340A6F3.label = DJI_0257
+photo_A534D52F_E0E6_5A06_41E8_142C5340A6F3.label = DJI_0257
+panorama_F2A9958E_E18B_FD62_41E5_801048278CC0.label = DJI_0267
+album_ABFE6E12_E069_E61E_4180_797B02032E7D_9.label = DJI_0279
+panorama_FBEB323D_E039_FE0A_41B2_E02C820C49B8.label = IMG_20230916_144748_00_merged
+panorama_FD98AFEF_E05A_6605_41C9_E025937E6A9B.label = IMG_20230916_145242_00_merged
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_0.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_1
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_3.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_12
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_4.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_13
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_5.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_16
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_6.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_27
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_7.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_29
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_8.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_33
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_9.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_35
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_10.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_36
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_11.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_37
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_1.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_6
+album_A3249889_E0EA_2A0A_41E9_565A850209B1_2.label = LINE_ALBUM_บ้านอภิรมย์ มูจิ_๒๓๐๙๑๙_8
+album_ABFE6E12_E069_E61E_4180_797B02032E7D.label = Photo Album DJI_0063
+model_D04A6134_DD23_E01A_41C9_6D2785F7CB0E.label = scene
+map_EF025336_DD60_3886_41D8_E80F03B835A0.label = สำหรับเรนเดอร์jpg_Page2_0
+
+### Video
+videolevel_C5E639DC_E67B_0822_4173_D6403E9D2F82.url = media/video_A9CA686D_E28A_D3A1_41D7_14A9C36A6F28_en.m3u8
+videolevel_C5E699FB_E67B_0BE6_41C1_D9162EDEB4E0.url = media/video_A9CA686D_E28A_D3A1_41D7_14A9C36A6F28_en.mp4
+videolevel_C5E639DC_E67B_0822_4173_D6403E9D2F82.posterURL = media/video_A9CA686D_E28A_D3A1_41D7_14A9C36A6F28_poster_en.jpg
+videolevel_C5E699FB_E67B_0BE6_41C1_D9162EDEB4E0.posterURL = media/video_A9CA686D_E28A_D3A1_41D7_14A9C36A6F28_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_E2B4F505_B51E_1571_41D9_E72899A42849_mobile.label = +34 666 777 888
+Button_E2B4F505_B51E_1571_41D9_E72899A42849.label = +34 666 777 888
+Button_8E25D123_A3F7_6229_41D6_0CAA69420798.label = 240 sqft
+Button_8E258126_A3F7_622B_41DF_7946715ACA15.label = 2 Bathrooms
+Button_8E258126_A3F7_622B_41DF_7946715ACA15_mobile.label = 2 Bathrooms
+Button_8E25F125_A3F7_6229_41B3_DD34501C0373.label = 3 Bedrooms
+Button_8E24E12D_A3F7_6239_41DB_F0B318021721_mobile.label = 2 Parking Space
+Button_8E246129_A3F7_6239_41B7_BB9D15A56FFE_mobile.label = 20 sqft Terrace
+Button_8E246129_A3F7_6239_41B7_BB9D15A56FFE.label = 20 sqft Terrace
+Button_8E25D123_A3F7_6229_41D6_0CAA69420798_mobile.label = 240 sqft
+Button_8E25F125_A3F7_6229_41B3_DD34501C0373_mobile.label = 3 Bedrooms
+Button_EB8B0FEC_DD60_E78A_41E1_3F08A41B8A3C.label = 3D HOME
+Button_E2AB4508_B51E_157F_41E6_AF41F98C187D_mobile.label = Address lorem ipsum, xx
+Button_8E2B2135_A3F7_6229_41D9_C98021E8E720_mobile.label = Air Conditioner
+Button_8E2B2135_A3F7_6229_41D9_C98021E8E720.label = Air Conditioner
+Button_91ADBCEA_B047_95BF_41CA_962F69EBEDEA_mobile.label = All Rooms
+Button_91ADBCEA_B047_95BF_41CA_962F69EBEDEA.label = All Rooms
+Button_8CBEEA40_A3F1_E668_41E1_1AFF3235D3BC.label = DOLORE MAGNA
+Button_981628D5_B040_BD94_41D6_1F4D8457ABA7.label = Guest Rooms
+Button_3824DDFC_4E5B_6E84_41C5_D513AE96C2DC.label = CONTACT US
+Button_3824DDFC_4E5B_6E84_41C5_D513AE96C2DC_mobile.label = CONTACT US
+Button_999DA3BE_B043_7394_41D0_42F8BA3CA1DF_mobile.label = Community Spaces
+Button_999DA3BE_B043_7394_41D0_42F8BA3CA1DF.label = Community Spaces
+Button_8CBDFA54_A3F1_E668_41C0_AAA16508429D.label = DOLORE MAGNA
+Button_8CBEEA40_A3F1_E668_41E1_1AFF3235D3BC_mobile.label = DOLORE MAGNA
+Button_8E24312A_A3F7_623B_41E2_F04FE26D5A39_mobile.label = Dressing Room
+Button_8E24312A_A3F7_623B_41E2_F04FE26D5A39.label = Dressing Room
+Button_8E24812E_A3F7_623B_41DD_F18EAB73CA8F.label = Elevator
+Button_8E24812E_A3F7_623B_41DD_F18EAB73CA8F_mobile.label = Elevator
+Button_9C53EAA3_B041_BDAD_41DD_99B929B0F379.label = Entrance
+Button_9C53EAA3_B041_BDAD_41DD_99B929B0F379_mobile.label = Entrance
+Button_8E24F12B_A3F7_6239_41E3_BDE0F3C542F6.label = Fireplace
+Button_8E24F12B_A3F7_6239_41E3_BDE0F3C542F6_mobile.label = Fireplace
+Button_998A058F_B043_7475_41DD_F21FB32A4E5A_mobile.label = Garden
+Button_998A058F_B043_7475_41DD_F21FB32A4E5A.label = Garden
+Button_981628D5_B040_BD94_41D6_1F4D8457ABA7_mobile.label = Guest Rooms
+Button_8E2BB13B_A3F7_6219_41DE_85677E18ACD2_mobile.label = Hair Dryer
+Button_8E2BB13B_A3F7_6219_41DE_85677E18ACD2.label = Hair Dryer
+Button_8E2BC137_A3F7_6229_41CA_00C26E6096D1_mobile.label = Heating
+Button_8E2BC137_A3F7_6229_41CA_00C26E6096D1.label = Heating
+Button_8E2B9139_A3F7_6219_41D9_2F8E6756515F_mobile.label = Iron
+Button_8E2B9139_A3F7_6219_41D9_2F8E6756515F.label = Iron
+Button_99B8F77E_B043_7497_41C0_BB2135D0699B.label = Terrace
+Button_8E241127_A3F7_6229_41E0_DE22D2CBED9E.label = Kitchen Island
+Button_8E241127_A3F7_6229_41E0_DE22D2CBED9E_mobile.label = Kitchen Island
+Button_969AF966_B041_BCB4_419C_4DAC0FC61722_mobile.label = Lorem Ipsum
+Button_99720EBD_B043_9595_41B3_9788B946D9B0.label = Other Spaces
+Button_99720EBD_B043_9595_41B3_9788B946D9B0_mobile.label = Other Spaces
+Button_8E24E12D_A3F7_6239_41DB_F0B318021721.label = 2 Parking Space
+Button_8E2B6133_A3F7_6229_41E0_7111B8147467_mobile.label = Private Gym
+Button_8E2B6133_A3F7_6229_41E0_7111B8147467.label = Private Gym
+Button_E2B4F506_B51E_1573_41E2_784537F4324E.label = loremipsum@company.com
+Button_9670CCFF_B040_9595_41CF_5DFFD81AD0AE_mobile.label = Rooms
+Button_969AF966_B041_BCB4_419C_4DAC0FC61722.label = Lorem Ipsum
+Button_8E248130_A3F7_6227_41D5_ACDDF91F5B48.label = Swimming Pool
+Button_8E248130_A3F7_6227_41D5_ACDDF91F5B48_mobile.label = Swimming Pool
+Button_8E2B1134_A3F7_622F_41BC_11CC3CED7035_mobile.label = TV LED (46")
+Button_8E2B1134_A3F7_622F_41BC_11CC3CED7035.label = TV LED (46")
+Button_8E24A131_A3F7_6229_41D9_8F50776F7256_mobile.label = Tennis Court
+Button_8E24A131_A3F7_6229_41D9_8F50776F7256.label = Tennis Court
+Button_99B8F77E_B043_7497_41C0_BB2135D0699B_mobile.label = Terrace
+Button_8E2BF138_A3F7_6227_41A2_A26726448F49.label = Wifi
+Button_8E2BF138_A3F7_6227_41A2_A26726448F49_mobile.label = Wifi
+Button_E2A89508_B51E_157F_41E0_A8CE2BD7579C_mobile.label = facebook.com/loremipsum
+Button_E2B46512_B51E_1593_41A4_34F459ED2579.label = instagram.com/loremipsum
+Button_E2B46512_B51E_1593_41A4_34F459ED2579_mobile.label = instagram.com/loremipsum
+Button_E2A9E50B_B51E_1571_41E2_BB3C1E08CBF2_mobile.label = linkedin.com/loremipsum
+Button_E2A9E50B_B51E_1571_41E2_BB3C1E08CBF2.label = linkedin.com/loremipsum
+Button_E2B4F506_B51E_1573_41E2_784537F4324E_mobile.label = loremipsum@company.com
+Button_E2AAC513_B51E_1591_41E0_CEBEF64DFE01.label = pinterest.com/loremipsum
+Button_E2AAC513_B51E_1591_41E0_CEBEF64DFE01_mobile.label = pinterest.com/loremipsum
+Button_E2AB950A_B51E_1573_41CC_95E63B4F3F80_mobile.label = twitter.com/loremipsum
+Button_E2AB950A_B51E_1573_41CC_95E63B4F3F80.label = twitter.com/loremipsum
+Button_E2A89508_B51E_157F_41E0_A8CE2BD7579C.label = facebook.com/loremipsum
+Button_E2AB4508_B51E_157F_41E6_AF41F98C187D.label = Address lorem ipsum, xx
+
+### Image
+Image_07241A19_1F35_E793_4175_65A1991D0D83.url = skin/Image_07241A19_1F35_E793_4175_65A1991D0D83_es.jpg
+Image_07241A19_1F35_E793_4175_65A1991D0D83_mobile.url = skin/Image_07241A19_1F35_E793_4175_65A1991D0D83_mobile_es.jpg
+Image_07379037_1F34_239E_41BB_68E257CF7A42.url = skin/Image_07379037_1F34_239E_41BB_68E257CF7A42_es.jpg
+Image_07379037_1F34_239E_41BB_68E257CF7A42_mobile.url = skin/Image_07379037_1F34_239E_41BB_68E257CF7A42_mobile_es.jpg
+Image_07D38E18_1F34_3F91_41B3_E273C4AED2E8.url = skin/Image_07D38E18_1F34_3F91_41B3_E273C4AED2E8_es.jpg
+Image_07D38E18_1F34_3F91_41B3_E273C4AED2E8_mobile.url = skin/Image_07D38E18_1F34_3F91_41B3_E273C4AED2E8_mobile_es.jpg
+Image_12947B12_21B5_0DB5_41B3_8116B934FB16.url = skin/Image_12947B12_21B5_0DB5_41B3_8116B934FB16_es.jpg
+Image_12947B12_21B5_0DB5_41B3_8116B934FB16_mobile.url = skin/Image_12947B12_21B5_0DB5_41B3_8116B934FB16_mobile_es.jpg
+Image_7F9BE541_4A58_DFFC_41D1_B4154EE4A26C.url = skin/Image_7F9BE541_4A58_DFFC_41D1_B4154EE4A26C_es.png
+Image_7F9BE541_4A58_DFFC_41D1_B4154EE4A26C_mobile.url = skin/Image_7F9BE541_4A58_DFFC_41D1_B4154EE4A26C_mobile_es.png
+Image_8CB92A3C_A3F1_E618_41E0_EA6E91FD3D32.url = skin/Image_8CB92A3C_A3F1_E618_41E0_EA6E91FD3D32_es.png
+Image_8CB9CA35_A3F1_E628_41CC_8BAA75527952.url = skin/Image_8CB9CA35_A3F1_E628_41CC_8BAA75527952_es.png
+Image_8CB9CA35_A3F1_E628_41CC_8BAA75527952_mobile.url = skin/Image_8CB9CA35_A3F1_E628_41CC_8BAA75527952_mobile_es.png
+Image_8CB9FA36_A3F1_E628_41D5_DD1BE28A8A1D.url = skin/Image_8CB9FA36_A3F1_E628_41D5_DD1BE28A8A1D_es.png
+Image_8CB9FA36_A3F1_E628_41D5_DD1BE28A8A1D_mobile.url = skin/Image_8CB9FA36_A3F1_E628_41D5_DD1BE28A8A1D_mobile_es.png
+Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_mobile.url = skin/Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_mobile_es.png
+Image_CC47D4F3_E06A_5A1E_41C5_B3B42D4C7DB3.url = skin/Image_CC47D4F3_E06A_5A1E_41C5_B3B42D4C7DB3_en.png
+Image_CDF8D634_E069_E61A_41E0_2E5CB797BD39.url = skin/Image_CDF8D634_E069_E61A_41E0_2E5CB797BD39_en.png
+Image_E2B62500_B51E_156F_41E2_D343AE876397.url = skin/Image_E2B62500_B51E_156F_41E2_D343AE876397_es.png
+Image_E2B62500_B51E_156F_41E2_D343AE876397_mobile.url = skin/Image_E2B62500_B51E_156F_41E2_D343AE876397_mobile_es.png
+Image_FFBDA69B_E2D9_1827_41D0_4A2BBD13A4D3.url = skin/Image_FFBDA69B_E2D9_1827_41D0_4A2BBD13A4D3_en.png
+
+### Label
+Label_FA17BC36_E18E_F3A2_41C3_39E302DB2B17.text = BAAN APIROME
+Label_FA8C972D_E186_DDA6_41E1_4383A0029D4E.text = H O M E   E S T A T E
+
+### Multiline Text
+HTMLText_8CBF5A46_A3F1_E668_41D5_3A69CC4D63F9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:center;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:13px;font-family:'Montserrat Extra Bold';">HOUSE DETAILS</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.78px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:center;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:7px;font-family:'Source Sans Pro';">LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT, SED DIAM NONUMMY NIBH EUISMOD TINCIDUNT UT LAOREET DOLORE MAGNA ALIQUAM ERAT VOLUTPAT. UT WISI ENIM AD MINIM VENIAM.</SPAN></SPAN></DIV></div>
+HTMLText_8CBE9A3F_A3F1_E618_41E2_B31FBB11398A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:center;font-size:26px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:26px;font-family:'Montserrat Extra Bold';">LOREM IPSUM</SPAN></SPAN></DIV><DIV STYLE="line-height:110%;text-align:center;font-size:26px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:26px;font-family:'Montserrat Extra Bold';">DOLOR SIT AMET</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.78px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.78px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:110%;text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:14px;font-family:'Montserrat Extra Bold';">TINCIDUNT ULTRICES</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.78px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat Medium';">LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT, SED DIAM NONUMMY NIBH EUISMOD TINCIDUNT UT LAOREET DOLORE MAGNA ALIQUAM ERAT VOLUTPAT. UT WISI ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCI TATION ULLAMCORPER SUSCIPIT LOBORTIS NISL UT ALIQUIP EX EA COMMODO CONSEQUAT.</SPAN></SPAN></DIV></div>
+HTMLText_8CBDCA54_A3F1_E668_41B5_B3C0787A45D0_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.8888888888888857vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:3.89vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="color:#ffffff;font-size:4.44vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
+HTMLText_9B5D755A_B516_3592_41D0_345482782EFF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.1857923497267753vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.19vmin;font-family:'Source Sans Pro';">10809 Haskell Ave, Mountain Hills, CA 91344</SPAN></SPAN></DIV></div>
+HTMLText_8F33D01B_B536_0B92_41DB_E2AB2ED2F4CF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.6229508196721287vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:2.62vmin;font-family:'Montserrat Light';">COMPANY WEB</SPAN></SPAN></DIV></div>
+HTMLText_8F33D01B_B536_0B92_41DB_E2AB2ED2F4CF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.6229508196721287vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:2.62vmin;font-family:'Montserrat Light';">COMPANY WEB</SPAN></SPAN></DIV></div>
+HTMLText_9CB20EF1_B56A_3491_41CF_8670D268A3B2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.6229508196721287vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:2.62vmin;font-family:'Montserrat Light';">LOCATION</SPAN></SPAN></DIV></div>
+HTMLText_9CB20EF1_B56A_3491_41CF_8670D268A3B2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:4.44vmin;font-family:'Montserrat Light';">LOCATION</SPAN></SPAN></DIV></div>
+HTMLText_8F30001D_B536_0B96_41A8_F479A9640C5B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.1857923497267753vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.19vmin;font-family:'Source Sans Pro';">www.companyweb.com</SPAN></SPAN></DIV></div>
+HTMLText_8F30001D_B536_0B96_41A8_F479A9640C5B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.1857923497267753vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.19vmin;font-family:'Source Sans Pro';">www.companyweb.com</SPAN></SPAN></DIV></div>
+HTMLText_9B5D755A_B516_3592_41D0_345482782EFF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.8888888888888857vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Source Sans Pro';">10809 Haskell Ave, Mountain Hills, CA 91344</SPAN></SPAN></DIV></div>
+HTMLText_0A80B451_1F63_F8E4_416C_96ADE0FDE3AB.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:100%;text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.vecteezy.com/free-photos" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:12px;"><I>Free Stock photos</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.vecteezy.com/free-photos" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:12px;"><I>by Vecteezy</I></SPAN></A></SPAN></SPAN></DIV></div>
+HTMLText_0A80B451_1F63_F8E4_416C_96ADE0FDE3AB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:100%;text-align:left;font-size:7.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:8px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.vecteezy.com/free-photos" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:7px;"><I>Free Stock photos</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:left;font-size:7.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:8px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.vecteezy.com/free-photos" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:7px;"><I>by Vecteezy</I></SPAN></A></SPAN></SPAN></DIV></div>
+HTMLText_8CBF5A46_A3F1_E668_41D5_3A69CC4D63F9.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:left;font-size:26px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:26px;font-family:'Montserrat Extra Bold';">HOUSE DETAILS</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:13.56px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:14px;font-family:'Source Sans Pro';">LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT, SED DIAM NONUMMY NIBH EUISMOD TINCIDUNT UT LAOREET DOLORE MAGNA ALIQUAM ERAT VOLUTPAT. UT WISI ENIM AD MINIM VENIAM.</SPAN></SPAN></DIV></div>
+HTMLText_A2017DC6_8120_A2B5_41DA_4F616608F32E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16.542372881355938px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:16.54px;font-family:'Source Sans Pro Light';">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla et leo sit amet aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In blandit velit eget luctus varius. Vestibulum dapibus non ipsum ac pharetra. Sed sodales turpis vel nisi fermentum auctor. Phasellus ipsum lectus, finibus vel neque ut, pulvinar pretium elit. Pellentesque vestibulum libero at felis vestibulum bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16.54px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:13.56px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:16.542372881355938px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:16.54px;font-family:'Source Sans Pro Light';">Donec a neque et nibh vehicula vulputate eu eu ex. Mauris finibus blandit ipsum vel aliquet. Vestibulum non felis eu arcu lobortis ullamcorper ac ut augue. Proin dignissim ac libero ac venenatis. Suspendisse convallis lorem quis aliquet consectetur.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16.54px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:13.56px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:16.542372881355938px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:16.54px;font-family:'Source Sans Pro Light';">Nunc sit amet nunc dapibus, fringilla quam sit amet, dapibus urna. Etiam semper enim sed orci sollicitudin efficitur. Vestibulum ac egestas sem. Sed fringilla nulla ut nulla cursus volutpat. Nulla ornare ultrices mauris, nec ultrices erat condimentum non. Fusce accumsan ut ante nec vestibulum. Ut eget mattis nunc.</SPAN></SPAN></DIV></div>
+HTMLText_E2B4B505_B51E_1571_41E0_9F3840469581_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5vmin;font-family:'Montserrat Extra Bold';">NAME &amp; SURNAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8888888888888857vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:3.89vmin;font-family:'Montserrat Extra Bold';">COMPANY NAME</SPAN></SPAN></DIV></div>
+HTMLText_8CBDCA54_A3F1_E668_41B5_B3C0787A45D0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.8518518518518503vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:1.85vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.703703703703704vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
+HTMLText_8CBECA3F_A3F1_E618_41D8_3885D3E6AA53.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.8518518518518503vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.703703703703704vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="font-size:3.7vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
+HTMLText_8CBECA3F_A3F1_E618_41D8_3885D3E6AA53_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.8518518518518503vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.703703703703704vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="font-size:3.7vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
+HTMLText_E2B4B505_B51E_1571_41E0_9F3840469581.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:25.999999999999996px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:26px;font-family:'Montserrat Extra Bold';">NAME &amp; SURNAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:19.999999999999993px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:20px;font-family:'Montserrat Extra Bold';">COMPANY NAME</SPAN></SPAN></DIV></div>
+HTMLText_63BCA54C_4AB8_DF84_41BA_4B9D0C300C55.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:30.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:30px;font-family:'Montserrat ExtraBold';">{{title}}</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Montserrat Medium';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_642DB521_4AD8_FFBC_41AE_349AF001BFF7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:50px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:50px;font-family:'Montserrat ExtraBold';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_A2017DC6_8120_A2B5_41DA_4F616608F32E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:14px;font-family:'Source Sans Pro Light';">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla et leo sit amet aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In blandit velit eget luctus varius. Vestibulum dapibus non ipsum ac pharetra. Sed sodales turpis vel nisi fermentum auctor. Phasellus ipsum lectus, finibus vel neque ut, pulvinar pretium elit. Pellentesque vestibulum libero at felis vestibulum bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.78px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:14px;font-family:'Source Sans Pro Light';">Donec a neque et nibh vehicula vulputate eu eu ex. Mauris finibus blandit ipsum vel aliquet. Vestibulum non felis eu arcu lobortis ullamcorper ac ut augue. Proin dignissim ac libero ac venenatis. Suspendisse convallis lorem quis aliquet consectetur.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.78px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:14px;font-family:'Source Sans Pro Light';">Nunc sit amet nunc dapibus, fringilla quam sit amet, dapibus urna. Etiam semper enim sed orci sollicitudin efficitur. Vestibulum ac egestas sem. Sed fringilla nulla ut nulla cursus volutpat. Nulla ornare ultrices mauris, nec ultrices erat condimentum non. Fusce accumsan ut ante nec vestibulum. Ut eget mattis nunc.</SPAN></SPAN></DIV></div>
+HTMLText_63BCA54C_4AB8_DF84_41BA_4B9D0C300C55_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:28px;font-family:'Montserrat ExtraBold';">{{title}}</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Montserrat Medium';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_642DB521_4AD8_FFBC_41AE_349AF001BFF7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:30px;font-family:'Montserrat ExtraBold';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_070BFB57_1F3C_259F_41B5_6234805B006C.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:100%;text-align:right;font-size:42.36111111111109px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:42.36px;font-family:'Montserrat Extra Bold';">LOREM IPSUM</SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:right;font-size:42.36111111111109px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:42.36px;font-family:'Montserrat Extra Bold';">DOLOR SIT AMET</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16.54px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:13.56px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:16.542372881355938px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16.54px;font-family:'Montserrat Extra Bold';">VIVAMUS HENDRERIT LOREM</SPAN></SPAN></DIV></div>
+HTMLText_070BFB57_1F3C_259F_41B5_6234805B006C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:100%;text-align:right;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Montserrat Extra Bold';">LOREM</SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:right;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Montserrat Extra Bold';">IPSUM</SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:right;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Montserrat Extra Bold';">DOLOR SIT</SPAN></SPAN></DIV><DIV STYLE="line-height:100%;text-align:right;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Montserrat Extra Bold';">AMET</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.27px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.78px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat Extra Bold';">VIVAMUS HENDRERIT</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat Extra Bold';">LOREM</SPAN></SPAN></DIV></div>
+HTMLText_8CBE9A3F_A3F1_E618_41E2_B31FBB11398A.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:110%;text-align:right;font-size:42.36111111111109px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:42.36px;font-family:'Montserrat Extra Bold';">LOREM IPSUM</SPAN></SPAN></DIV><DIV STYLE="line-height:110%;text-align:right;font-size:42.36111111111109px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:42.36px;font-family:'Montserrat Extra Bold';">DOLOR SIT AMET</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13.56px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:13.56px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:110%;text-align:right;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:20px;font-family:'Montserrat Extra Bold';">TINCIDUNT ULTRICES</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:13.56px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:150%;text-align:right;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Montserrat Medium';">LOREM IPSUM DOLOR SIT AMET, CONSECTETUER ADIPISCING ELIT, SED DIAM NONUMMY NIBH EUISMOD TINCIDUNT UT LAOREET DOLORE MAGNA ALIQUAM ERAT VOLUTPAT. UT WISI ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCI TATION ULLAMCORPER SUSCIPIT LOBORTIS NISL UT ALIQUIP EX EA COMMODO CONSEQUAT. DUIS AUTEM VEL EUM IRIURE DOLOR IN HENDRERIT IN VULPUTATE VELIT ESSE MOLESTIE CONSEQUAT, VEL ILLUM DOLORE EU FEUGIAT NULLA FACILISIS.</SPAN></SPAN></DIV></div>
+HTMLText_08929F7B_1F55_DD96_41A0_E9D4FC2C6E28.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:12.406779661016955px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12.41px;font-family:'Montserrat Extra Bold';">SED DIAM NONUMMY</SPAN></SPAN></DIV></div>
+HTMLText_08929F7B_1F55_DD96_41A0_E9D4FC2C6E28_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Montserrat Extra Bold';">SED DIAM NONUMMY</SPAN></SPAN></DIV></div>
+HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 4px rgba(0,0,0,0.5);text-align:left;font-size:28px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:28px;font-family:'Montserrat Light';">{{title}}</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 4px rgba(0,0,0,0.5);text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:12px;font-family:'Montserrat Medium';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 8px rgba(0,0,0,0.5);text-align:left;font-size:30.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Montserrat Light';">{{title}}</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 8px rgba(0,0,0,0.5);text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#d9e021;font-size:14px;font-family:'Montserrat Medium';">{{subtitle}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19.53px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:19.53px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BaanApirome3
