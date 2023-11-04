@@ -1,0 +1,156 @@
+@font-face {
+   font-family: "Montserrat Light";
+   src: url("fonts/Montserrat Light.woff") format("woff"), url("fonts/Montserrat Light.eot") format("embedded-opentype"), url("fonts/Montserrat Light.ttf") format("truetype"), url("fonts/Montserrat Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Light";
+   src: url("fonts/Montserrat Light Italic.woff") format("woff"), url("fonts/Montserrat Light Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Light Italic.ttf") format("truetype"), url("fonts/Montserrat Light Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat Medium";
+   src: url("fonts/Montserrat Medium.woff") format("woff"), url("fonts/Montserrat Medium.eot") format("embedded-opentype"), url("fonts/Montserrat Medium.ttf") format("truetype"), url("fonts/Montserrat Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Medium";
+   src: url("fonts/Montserrat Medium Italic.woff") format("woff"), url("fonts/Montserrat Medium Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Medium Italic.ttf") format("truetype"), url("fonts/Montserrat Medium Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat ExtraBold";
+   src: url("fonts/Montserrat ExtraBold.woff") format("woff"), url("fonts/Montserrat ExtraBold.eot") format("embedded-opentype"), url("fonts/Montserrat ExtraBold.ttf") format("truetype"), url("fonts/Montserrat ExtraBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat ExtraBold";
+   src: url("fonts/Montserrat ExtraBold Italic.woff") format("woff"), url("fonts/Montserrat ExtraBold Italic.eot") format("embedded-opentype"), url("fonts/Montserrat ExtraBold Italic.ttf") format("truetype"), url("fonts/Montserrat ExtraBold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Anakotmai Light";
+   src: url("fonts/Anakotmai Light.woff") format("woff"), url("fonts/Anakotmai Light.eot") format("embedded-opentype"), url("fonts/Anakotmai Light.ttf") format("truetype"), url("fonts/Anakotmai Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Anakotmai Bold";
+   src: url("fonts/Anakotmai Bold.woff") format("woff"), url("fonts/Anakotmai Bold.eot") format("embedded-opentype"), url("fonts/Anakotmai Bold.ttf") format("truetype"), url("fonts/Anakotmai Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Anakotmai Medium";
+   src: url("fonts/Anakotmai Medium.woff") format("woff"), url("fonts/Anakotmai Medium.eot") format("embedded-opentype"), url("fonts/Anakotmai Medium.ttf") format("truetype"), url("fonts/Anakotmai Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Extra Bold";
+   src: url("fonts/Montserrat Extra Bold.woff") format("woff"), url("fonts/Montserrat Extra Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Extra Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Source Sans Pro Light";
+   src: url("fonts/Source Sans Pro Light.woff") format("woff"), url("fonts/Source Sans Pro Light.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Light.ttf") format("truetype"), url("fonts/Source Sans Pro Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Source Sans Pro Light";
+   src: url("fonts/Source Sans Pro Light Italic.woff") format("woff"), url("fonts/Source Sans Pro Light Italic.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Light Italic.ttf") format("truetype"), url("fonts/Source Sans Pro Light Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat Black";
+   src: url("fonts/Montserrat Black.woff") format("woff"), url("fonts/Montserrat Black.eot") format("embedded-opentype"), url("fonts/Montserrat Black.ttf") format("truetype"), url("fonts/Montserrat Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Black";
+   src: url("fonts/Montserrat Black Italic.woff") format("woff"), url("fonts/Montserrat Black Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Black Italic.ttf") format("truetype"), url("fonts/Montserrat Black Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.ttf") format("truetype"), url("fonts/Montserrat Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold Italic.woff") format("woff"), url("fonts/Montserrat Bold Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Bold Italic.ttf") format("truetype"), url("fonts/Montserrat Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Italic.woff") format("woff"), url("fonts/Montserrat Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Italic.ttf") format("truetype"), url("fonts/Montserrat Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Regular.woff") format("woff"), url("fonts/Montserrat Regular.eot") format("embedded-opentype"), url("fonts/Montserrat Regular.ttf") format("truetype"), url("fonts/Montserrat Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Bold.woff") format("woff"), url("fonts/Source Sans Pro Bold.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Bold.ttf") format("truetype"), url("fonts/Source Sans Pro Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Bold Italic.woff") format("woff"), url("fonts/Source Sans Pro Bold Italic.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Bold Italic.ttf") format("truetype"), url("fonts/Source Sans Pro Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Italic.woff") format("woff"), url("fonts/Source Sans Pro Italic.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Italic.ttf") format("truetype"), url("fonts/Source Sans Pro Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro Regular.woff") format("woff"), url("fonts/Source Sans Pro Regular.eot") format("embedded-opentype"), url("fonts/Source Sans Pro Regular.ttf") format("truetype"), url("fonts/Source Sans Pro Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Source Sans Pro";
+   src: url("fonts/Source Sans Pro.woff") format("woff"), url("fonts/Source Sans Pro.eot") format("embedded-opentype"), url("fonts/Source Sans Pro.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
